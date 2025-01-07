@@ -44,8 +44,7 @@ The dataset used in this project is the TLC Trip Record Data, which consists of 
    
 # Data Model
 
-![image](https://github.com/user-attachments/assets/45335a5a-2570-4e41-948f-13fe6962d7d4)
-
+![image](https://github.com/user-attachments/assets/eaccebaf-e67f-4f2a-b52e-5cdceeefb1c4)
 
 https://lucid.app/lucidchart/b4e3831d-6c0c-4ab9-8848-38fe0661d40b/edit?invitationId=inv_6568bf25-a1ef-4fb5-b1f8-4d19f11e29d8
 
